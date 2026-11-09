@@ -1,0 +1,12 @@
+# data and model files
+data/
+*.pt
+*.pth
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# virtual environments
+.venv/
+.defectDetectionVenv/
